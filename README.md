@@ -1,2 +1,3 @@
-# miggacraft
-Alt minecraft launcher for low spec machine
+# Miggacraft
++ minecraft 1.21.4
++ fabric 0.115.1
